@@ -1,0 +1,8 @@
+{
+  "name": "SysselSchema - Veckans Hushållsschema",
+  "description": "Smart veckoplanerare och rättvis syssleschemaläggning för familjer och hushåll med flerspråksstöd (Svenska, Engelska, Arabiska).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
